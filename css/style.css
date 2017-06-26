@@ -1,0 +1,9 @@
+.padme-light,.padme-dark {
+    background:url(/images/rendition1.img.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+*{
+    color:red;
+}
+
