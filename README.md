@@ -11,3 +11,4 @@ https://gitlab.com/NikolasOm1/my_page
       
   ***  
  ### 'include CKEdiror and nikEditor to user and admin page(just created) 21:09 26.06.207' 
+ 'froalatest' 23:14 26.06.207' 
