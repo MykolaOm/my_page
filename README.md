@@ -13,3 +13,6 @@ https://gitlab.com/NikolasOm1/my_page
  ### 'include CKEdiror and nikEditor to user and admin page(just created) 21:09 26.06.207' 
  'froalatest' 23:14 26.06.207' 
  'try push to issue_2124_' 23:14 26.06.2017 
+ 'server' up:) 23:42 26.06.2017 
+ 'gitlabintita -push ita1  git@gitlab.intita.com:b16/Project2119.git 23:43 26.06.2017 
+ 'succes push to issue_2124_ 23:42 26.06.2017 
