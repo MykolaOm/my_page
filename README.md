@@ -16,3 +16,4 @@ https://gitlab.com/NikolasOm1/my_page
  'server' up:) 23:42 26.06.2017 
  'gitlabintita -push ita1  git@gitlab.intita.com:b16/Project2119.git 23:43 26.06.2017 
  'succes push to issue_2124_ 23:42 26.06.2017 
+glowing text and flex

@@ -10,3 +10,13 @@
 #advert-middle{
     text-align: center;
 }
+/*test*/
+#gymgym{
+    flex: 1 1 auto; /*розтянули контент прижавши футер до низу якщо 3 блоки 33%33%33%*/
+    /*flex: 2 1 auto;  25% 50% 25%до низу*/
+    flex-grow: 1 ;    /*до якого розміру розтягується*/
+    flex-shrink: 1; /*до якого розміру зжимається*/
+    display: flex;
+    flex-direction: row;    
+    
+}
